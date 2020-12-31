@@ -1,4 +1,4 @@
-### Hi there, I'm David Razmadze 👋
+### Hi there, I'm David 👋
 
 ## I'm a Student, Developer, and Teacher
 
