@@ -1,7 +1,5 @@
 ### Hi there, I'm David Razmadze 👋
 
-[![Website]](http://davidrazmadze.com)
-
 ## I'm a Student, Developer, and Teacher
 
 - 🌱 I'm looking to land a job as an iOS Developer
