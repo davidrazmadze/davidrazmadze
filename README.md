@@ -2,10 +2,10 @@
 
 ## I'm a Student, Developer, and Teacher
 
-- 🌱 I'm looking to land a job as an iOS Developer
-- 👯 I graduated from UMass Lowell with a Bachelor's Degree in Computer Science
+- 💻 I'm looking to land a job as an iOS Developer
+- 🎓 I graduated from UMass Lowell with a Bachelor's Degree in Computer Science
 - 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to travel and create music
+- ⚡️Fun fact: I love to travel and create music
 
 <br />
 
