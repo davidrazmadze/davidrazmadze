@@ -1,11 +1,10 @@
-### Hi there, I'm David 👋
+# Hi there, I'm David 👋
 
 ## I'm a Student, Developer, and Teacher
 
-- 💻 I'm looking to land a job as an iOS Developer
-- 🎓 I graduated from UMass Lowell with a Bachelor's Degree in Computer Science
-- 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡️Fun fact: I love to travel and create music
+- 💻 I'm looking to land a job as an iOS Developer or Web Developer
+- 🎓 Currently studying to get my Masters Degree in Computer Science from UMass Lowell
+- 🎓 Graduated from UMass Lowell with a Bachelor's Degree in Computer Science
 
 <br />
 
