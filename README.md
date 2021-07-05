@@ -2,7 +2,6 @@
 
 ## I'm a Student, Developer, and Teacher
 
-- 💻 I'm looking to land a job as an iOS Developer or Web Developer
 - 🎓 Currently studying to get my Masters Degree in Computer Science from UMass Lowell
 - 🎓 Graduated from UMass Lowell with a Bachelor's Degree in Computer Science
 
