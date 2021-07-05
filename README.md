@@ -5,7 +5,7 @@
 - 🎓 Currently studying to get my Masters Degree in Computer Science from UMass Lowell
 - 🎓 Graduated from UMass Lowell with a Bachelor's Degree in Computer Science
 
-<br />
+<hr />
 
 ### Languages and Tools:
 
