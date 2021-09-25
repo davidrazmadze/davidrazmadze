@@ -1,11 +1,17 @@
-# Hi there, I'm David 👋
+# Hi there, my name is David Razmadze. Nice to meet you! 👋
 
-## I'm a Student, Developer, and Teacher
+## I am an iOS Developer and Web Developer
 
-- 🎓 Currently studying to get my Masters Degree in Computer Science from UMass Lowell
-- 🎓 Graduated from UMass Lowell with a Bachelor's Degree in Computer Science
+## Brief Summary
+- 💻 Currently studying to get my Masters Degree in Computer Science from UMass Lowell. My expected graduation date is December 2022.
+
+- 🎓 ✅ Graduated from UMass Lowell with a Bachelor's Degree in Computer Science (December 2020)
 
 <hr />
+
+## Published iOS Apps
+
+- TODO: Add links to apps
 
 ### Languages and Tools:
 
