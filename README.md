@@ -8,5 +8,3 @@
 * 🎥 Created 90+ programming tutorials on iOS, JavaScript, Python, and Web Development
 * ☁️ Experienced with real-time systems, REST APIs, subscriptions, push notifications, and scalable mobile architectures
 * 📍 Based in Boston, MA
-
-<img height="200em" src="https://github-readme-stats.vercel.app/api?username=davidrazmadze&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=radical" />
