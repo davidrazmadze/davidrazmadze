@@ -8,3 +8,4 @@
 * 🎥 Created 90+ programming tutorials on iOS, JavaScript, Python, and Web Development
 * ☁️ Experienced with real-time systems, REST APIs, subscriptions, push notifications, and scalable mobile architectures
 * 📍 Based in Boston, MA
+* ▶️ Coding YouTube channel with 4,000+ subscribers focused on iOS development, software engineering, and programming tutorials
